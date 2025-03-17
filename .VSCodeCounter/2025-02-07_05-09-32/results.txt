@@ -1,0 +1,54 @@
+Date : 2025-02-07 05:09:32
+Directory : c:\Users\bharg\Downloads\crypto
+Total : 25 files,  599900 codes, 0 comments, 25 blanks, all 599925 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| JSON     |          2 |    562,795 |          0 |          2 |    562,797 |
+| CSV      |         23 |     37,105 |          0 |         23 |     37,128 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |         25 |    599,900 |          0 |         25 |    599,925 |
+| data                                                                           |         23 |     37,105 |          0 |         23 |     37,128 |
+| model                                                                          |          2 |    562,795 |          0 |          2 |    562,797 |
+| model (Files)                                                                  |          1 |    291,159 |          0 |          1 |    291,160 |
+| model\.ipynb_checkpoints                                                       |          1 |    271,636 |          0 |          1 |    271,637 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                       | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Users\bharg\Downloads\crypto\data\coin_Aave.csv                             | CSV      |        276 |          0 |          1 |        277 |
+| c:\Users\bharg\Downloads\crypto\data\coin_BinanceCoin.csv                      | CSV      |      1,443 |          0 |          1 |      1,444 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Bitcoin.csv                          | CSV      |      2,992 |          0 |          1 |      2,993 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Cardano.csv                          | CSV      |      1,375 |          0 |          1 |      1,376 |
+| c:\Users\bharg\Downloads\crypto\data\coin_ChainLink.csv                        | CSV      |      1,386 |          0 |          1 |      1,387 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Cosmos.csv                           | CSV      |        846 |          0 |          1 |        847 |
+| c:\Users\bharg\Downloads\crypto\data\coin_CryptocomCoin.csv                    | CSV      |        936 |          0 |          1 |        937 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Dogecoin.csv                         | CSV      |      2,761 |          0 |          1 |      2,762 |
+| c:\Users\bharg\Downloads\crypto\data\coin_EOS.csv                              | CSV      |      1,467 |          0 |          1 |      1,468 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Ethereum.csv                         | CSV      |      2,161 |          0 |          1 |      2,162 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Iota.csv                             | CSV      |      1,485 |          0 |          1 |      1,486 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Litecoin.csv                         | CSV      |      2,992 |          0 |          1 |      2,993 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Monero.csv                           | CSV      |      2,603 |          0 |          1 |      2,604 |
+| c:\Users\bharg\Downloads\crypto\data\coin_NEM.csv                              | CSV      |      2,289 |          0 |          1 |      2,290 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Polkadot.csv                         | CSV      |        321 |          0 |          1 |        322 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Solana.csv                           | CSV      |        453 |          0 |          1 |        454 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Stellar.csv                          | CSV      |      2,528 |          0 |          1 |      2,529 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Tether.csv                           | CSV      |      2,319 |          0 |          1 |      2,320 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Tron.csv                             | CSV      |      1,393 |          0 |          1 |      1,394 |
+| c:\Users\bharg\Downloads\crypto\data\coin_USDCoin.csv                          | CSV      |      1,003 |          0 |          1 |      1,004 |
+| c:\Users\bharg\Downloads\crypto\data\coin_Uniswap.csv                          | CSV      |        293 |          0 |          1 |        294 |
+| c:\Users\bharg\Downloads\crypto\data\coin_WrappedBitcoin.csv                   | CSV      |        889 |          0 |          1 |        890 |
+| c:\Users\bharg\Downloads\crypto\data\coin_XRP.csv                              | CSV      |      2,894 |          0 |          1 |      2,895 |
+| c:\Users\bharg\Downloads\crypto\model\.ipynb_checkpoints\main-checkpoint.ipynb | JSON     |    271,636 |          0 |          1 |    271,637 |
+| c:\Users\bharg\Downloads\crypto\model\main.ipynb                               | JSON     |    291,159 |          0 |          1 |    291,160 |
+| Total                                                                          |          |    599,900 |          0 |         25 |    599,925 |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
